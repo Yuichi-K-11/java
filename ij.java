@@ -1,4 +1,4 @@
-public class ij{
+public class Ij{
   public static void main(String[] args){
     boolean b0, b1, b2, b3;
     int i=1, j=10;

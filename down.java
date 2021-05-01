@@ -1,4 +1,4 @@
-class down{
+class Down{
   public static void main(String[] args){
     int num = 6;
 
