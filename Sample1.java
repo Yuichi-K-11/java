@@ -1,5 +1,5 @@
 import java.io.*;
-class Sample6_2
+class Sample1
 {
  public static void main(String[] args) throws IOException
  {
@@ -18,4 +18,3 @@ class Sample6_2
 System.out.println(“処理を終了します。”);
 }
 }
- 
